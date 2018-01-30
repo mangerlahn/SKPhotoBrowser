@@ -112,7 +112,6 @@ func collectionView(collectionView: UICollectionView, didSelectItemAtIndexPath i
 You can customize Toolbar via SKPhotoBrowserOptions.
 
 ```swift
-SKPhotoBrowserOptions.displayToolbar = false                              // all tool bar will be hidden
 SKPhotoBrowserOptions.displayCounterLabel = false                         // counter label will be hidden
 SKPhotoBrowserOptions.displayBackAndForwardButton = false                 // back / forward button will be hidden
 SKPhotoBrowserOptions.displayAction = false                               // action button will be hidden
